@@ -1,4 +1,4 @@
-# PROGRAMACION-2--PRACTICAL
+# PROGRAMACION-2-PRACTICAL
 Introduction to Java
 
 I learned to use basic java methods. .
